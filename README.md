@@ -1,4 +1,4 @@
-#Locations
+# Locations
 
 para la facilidad de este ejercicio uso datos locales en la variable $location, sin embargo esta pensado para un uso a la par de una BD, para tomar los datos de Lat, Long, 
 
